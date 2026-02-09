@@ -1,9 +1,9 @@
 # Jest Workshop Submission
 
 ## Student Details
-- Name:
-- Roll Number:
-- GitHub Username:
+- Name:Ayush Kumar Jha
+- Roll Number:2024-B-04092005B
+- GitHub Username:jhaayushkumar
 
 ---
 
